@@ -7,12 +7,12 @@
     "Mweight": 57.08,
     "Density": 0.76
   },
-  "Pyrrole": {
-    "chemicalMw": 67.09,
-    "chemicalDensity": 0.967
-  },
   "Hexanethiol": {
     "Mweight": 118.24,
     "Density": 0.842
+  },
+  "Pyrrole": {
+    "Mweight": 67.09,
+    "Density": 967
   }
 }
